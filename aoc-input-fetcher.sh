@@ -42,7 +42,7 @@ fi
 URL="https://adventofcode.com/$YEAR/day/$DAY/input"
 
 # Create directory structure
-DIR="$YEAR/$DAY"
+DIR="$YEAR"
 mkdir -p "$DIR"
 
 # Fetch input and save to file
