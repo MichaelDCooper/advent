@@ -2,8 +2,7 @@
 
 # Setup script for compile_commands.json generation
 
-# Install Bear if not present (uncomment for your package manager)
-# For MacOS:
+# Install Bear if not present 
 # brew install bear
 
 # Create a master Makefile that includes all days
