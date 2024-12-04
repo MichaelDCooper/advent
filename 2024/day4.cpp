@@ -1,3 +1,4 @@
+// Only part 1 solution. Part 2 in python.
 #include <fstream>
 #include <iostream>
 #include <string>
